@@ -1,0 +1,7 @@
+/milvus/volumes
+/milvus_data
+/.ipynb_checkpoints
+/__pycache__
+
+/embeddings.txt
+/train-00000-of-00001.parquet
