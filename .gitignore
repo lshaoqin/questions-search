@@ -5,4 +5,6 @@
 
 /embeddings.txt
 /train-00000-of-00001.parquet
-/submission.jsonl
+/submission.jsol
+/test.jsonl
+/train.jsonl
